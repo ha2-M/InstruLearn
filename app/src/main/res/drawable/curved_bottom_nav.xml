@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="@color/white" />
+
+    <corners android:radius="0dp" />
+
+    <!-- Adjust the path to ensure the curve is visible -->
+    <path android:fillColor="@color/white"
+        android:pathData="M0,0 h1000 v100 h-1000 Z
+                          M500,100 c0,-50 200,-50 200,0 v50 h-400 v-50 Z" />
+</shape>

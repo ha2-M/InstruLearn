@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InstruLearn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fab_search">Search</string>
+    <string name="categories">Categories</string>
+    <string name="popular">Popular</string>
+    <string name="search_for_music_lessons">Search for music lessons</string>
+    <string name="explore_top_tutorials_to_master_your_favorite_musical_instrument">Explore top tutorials to master your favorite musical instrument!</string>
+    <string name="instrulearn">InstruLearn</string>
+</resources>

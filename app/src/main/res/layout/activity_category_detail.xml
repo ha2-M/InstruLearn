@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/main_color_app"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/category_image_view"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:scaleType="fitXY"
+            android:layout_marginVertical="@dimen/_3sdp"
+            tools:src="@drawable/guitar"
+            />
+    <!-- Display category name -->
+    <TextView
+        android:id="@+id/category_name_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        tools:text="Guitar"
+        android:textColor="@color/main_color_text"
+        android:layout_marginVertical="@dimen/_10sdp"
+        android:textSize="@dimen/_24sdp"
+        />
+
+    </LinearLayout>
+    <!-- RecyclerView to display videos -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/videos_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:listitem="@layout/item_video"
+      />
+</LinearLayout>
