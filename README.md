@@ -3,9 +3,12 @@
 # Overview
 InstLearn is an Android app that 
 # Features
-- Home: 
-- Search: 
-- Favorite:
+- Home Page: 
+  - Image Slider: Showcasing various instruments.
+  - Categories: A selection of suggested instruments. Clicking on a category displays related educational videos.
+  - Popular Videos: A collection of trending instructional videos.
+- Search Page: Easily find the educational videos you want to learn from.
+- Favorites Page: Access your saved videos for quick reference.
 # ScreenShots
 
 # Splash
