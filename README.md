@@ -1,16 +1,16 @@
 # InstLearn Andriod App
 ![app](https://github.com/user-attachments/assets/c49125c0-8d65-4934-a047-e10ab5a530b8)
 # Overview
-InstLearn is an Android app that designed to help users learn how to play musical instruments through an array of educational videos. 
+Instrulearn is an Android app designed to help users learn how to play musical instruments through a rich array of educational videos, all powered by the YouTube Data API v3.
 # Features
 - Home Page: 
-  - Image Slider: Showcasing various instruments.
-  - Categories: A selection of suggested instruments. Clicking on a category displays related educational videos.
-  - Popular Videos: A collection of trending instructional videos.
+  - Image Slider: Displaying a variety of instrument images to inspire learners.
+  - Categories: Discover suggested instruments, with videos tailored to each category, Clicking on a category displays related educational videos.
+  - Popular Videos: A selection of trending instructional videos to help you stay on top of the latest learning content.
 
-- Search Page: Easily find the educational videos you want to learn from.
+- Search Page: Easily find the exact educational videos you need to enhance your musical journey.
 
-- Favorites Page: Access your saved videos for quick reference.
+- Favorites Page: Save your preferred videos for quick access and continuous learning.
 # ScreenShots
 
 # Splash
