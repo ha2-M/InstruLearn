@@ -1,4 +1,4 @@
-# InstLearn Andriod App
+# InstruLearn Andriod App
 ![app](https://github.com/user-attachments/assets/c49125c0-8d65-4934-a047-e10ab5a530b8)
 # Overview
 Instrulearn is an Android app designed to help users learn how to play musical instruments through a rich array of educational videos, all powered by the YouTube Data API v3.
